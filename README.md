@@ -28,7 +28,7 @@ Step 5:
 Plot the dataset and color the by class label
 ## Program:
 ```
-/*
+
 Program to implement binary classification.
 Developed by: SOUVIK KUNDU
 RegisterNumber: 212221230105
