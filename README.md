@@ -1,4 +1,8 @@
-# BINARY CLASSIFICATION
+## EX NO: 02
+
+## DATE :
+
+## <p align = 'center'> BINARY CLASSIFICATION</p>
 ## Aim:
 To write a python program to perform binary classification.
 
@@ -28,7 +32,7 @@ Step 5:
 Plot the dataset and color the by class label
 ## Program:
 ```
-
+/*
 Program to implement binary classification.
 Developed by: SOUVIK KUNDU
 RegisterNumber: 212221230105
