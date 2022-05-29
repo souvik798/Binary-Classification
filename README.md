@@ -31,6 +31,7 @@ Summarize first few examples.
 Step 5:
 Plot the dataset and color the by class label
 ## Program:
+<br>
 ```
 Program to implement binary classification.
 Developed by: SOUVIK KUNDU
@@ -58,10 +59,8 @@ pyplot.legend()
 pyplot.show()
 
 ```
-<br>
-<br>
-<br>
 
+<br>
 ## Output:
 ![binary classification plot](897.png)
 
