@@ -58,6 +58,10 @@ pyplot.legend()
 pyplot.show()
 
 ```
+<br>
+<br>
+<br>
+
 ## Output:
 ![binary classification plot](897.png)
 
